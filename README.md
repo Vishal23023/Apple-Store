@@ -1,6 +1,6 @@
 # Apple-Store
 
-# Responsive Card Grid Layout
+## Responsive Card Grid Layout
 
 ## This project is a responsive card-based grid layout built using HTML and CSS. It dynamically adjusts to different screen sizes, making it suitable for showcasing products, portfolio items, or any structured content.
 
